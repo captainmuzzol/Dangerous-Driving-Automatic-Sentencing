@@ -4,17 +4,17 @@
 #### @version: 2.6
 
 ## 项目介绍
-本项目是一个自动化的危险驾驶量刑系统，可以根据案件信息自动生成量刑建议。系统能够识别并分析酒精含量、犯罪情节等关键信息，为司法实践提供辅助决策支持。
+本项目是一个自动化的危险驾驶量刑系统，可以根据案件信息自动生成量刑建议。同时生成（不）起诉书、公诉意见书、认罪认罚具结书（基础模板）、讯问笔录（基础模板）、审查报告（新增了标记事实页码功能）等文书，系统能够识别并分析酒精含量、犯罪情节、前科劣迹等关键信息，为司法实践提供辅助决策支持。
 
 ## 环境要求
-- Python 3.x
+- Python 3.8+
 - 相关Python包（见下方安装说明）
 
 ## 安装说明
 
 1. 克隆项目到本地：
 ```bash
-git clone [项目地址]
+git clone https://github.com/captainmuzzol/Dangerous-Driving-Automatic-Sentencing.git
 cd Dangerous-Driving-Automatic-Sentencing
 ```
 
