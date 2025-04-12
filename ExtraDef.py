@@ -101,7 +101,6 @@ def place_fact(fact):
             fact_place = "start not < end"
     else:
         fact_place = "start or end not in info"
-
     return fact_place
 
 
