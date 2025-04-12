@@ -1,6 +1,6 @@
 # 危险驾驶自动量刑系统
 #### @time: 2023/8/26 17:34
-#### @author: 许钦滔
+#### @author: captainmuzzol
 #### @version: 2.6
 
 ## 项目介绍
